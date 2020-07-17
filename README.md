@@ -1,4 +1,5 @@
 # shiro-exp
+要求：ysoserial-master-SNAPSHOT.jar放到当前目录
 
 fuzzkey.py使用JRMPClient进行遍历收集的100个key。
 
